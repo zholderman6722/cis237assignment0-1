@@ -1,7 +1,9 @@
 # Assignment 0 - Introduction to Git
-## Due: 9-13-2016
+## Due: 1-16-2017
 
 ## Author
+
+
 
 ## Description
 
@@ -32,4 +34,8 @@ If you need some help on how to write proper Markdown for the README file, you c
 
 ## Outside Resources Used
 
+
+
 ## Known Problems, Issues, And/Or Errors in the Program
+
+
