@@ -7,9 +7,9 @@ Rows=48
 FontHeight=16
 Term=xterm
 ScrollbackLines=100000
-ForegroundColour=131, 148, 150
+ForegroundColour=7, 54, 66
 BackgroundColour=  0,  43,  54
-CursorColour=    131, 148, 150
+CursorColour=    88, 110, 117
 
 Black=             7,  54,  66
 BoldBlack=         0,  43,  54
